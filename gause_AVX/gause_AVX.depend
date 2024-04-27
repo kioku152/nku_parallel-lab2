@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714209151 source:e:\codeblocks_project\gause_avx\main.cpp
+	<iostream>
+	<immintrin.h>
+	<windows.h>
+

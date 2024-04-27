@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714205445 source:e:\codeblocks_project\gause_sse\main.cpp
+	<iostream>
+	<xmmintrin.h>
+	<windows.h>
+
